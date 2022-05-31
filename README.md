@@ -15,4 +15,4 @@ Se define trabajar con entornos virtuales desde la distribución anaconda bajo e
 
 En los resultados por consola de visualizan los datos en Json si se descomentarón las líneas `print(json)` sino solo se verán los datos formateados en String concatenados y en tuplas dentro de una lista, con el mensaje `Done` al final.
 
-En el siguiente enlace se puede apreciar en video la ejecución del proyecto: `https//:www.youtube.com`
+En el siguiente enlace se puede apreciar en video la ejecución del proyecto: `https://youtu.be/iBOt3ohYEDo`
